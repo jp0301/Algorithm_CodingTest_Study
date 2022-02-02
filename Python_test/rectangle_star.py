@@ -1,5 +1,3 @@
-from ossaudiodev import SNDCTL_DSP_SPEED
-
 
 n, m = map(int, input().strip().split(' '))
 
