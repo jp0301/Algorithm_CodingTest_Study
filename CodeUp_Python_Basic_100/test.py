@@ -1,2 +1,2 @@
-w, n = input().split()
-print(w * int(n))
+a = bool(int(input()))
+print(not a)
