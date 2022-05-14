@@ -50,13 +50,7 @@ public class Test {
 			sb.append(Integer.parseInt(st.nextToken()) + Integer.parseInt(st.nextToken()));
 			sb.append('\n');
 		}
-		
-		
 		System.out.println(sb);
-
-		
-		
-		
 	}
 }
 
