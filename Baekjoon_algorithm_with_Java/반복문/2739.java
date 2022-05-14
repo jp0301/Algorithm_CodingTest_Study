@@ -1,5 +1,5 @@
 /*
-* 반복문 #1
+* 반복문
 * 2739번
 * 구구단 출력하기
 */
@@ -16,7 +16,5 @@ public class Main {
 		for(int i = 1; i < 10; i++) {
 			System.out.println( n + " * " + i + " = " + (n*i) );
 		}
-		
-		
 	}
 }
